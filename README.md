@@ -1,2 +1,28 @@
-# Crazy-Bird-
-Hello everyone,  this is fully done Flappy Bird that I made in PRAO. 
+## Hello everyone,
+
+This is my third project from the Job week (PRAO). This third project improved my Python skills very well because - so more stuff you do so more you understand. Yeah, so basically while I made this Flappy Bird game I had some memories from my other projects so it was pretty easy to understand the source/code. 
+
+
+## Source
+
+
+I didnt make this flappy bird by myself, because personally I just cant do it because Im not skilled yet in computer science languages. I watched a great YouTube tutorial.
+
+Here is the link on the tutorial : https://www.youtube.com/watch?v=GiUGVOqqCKg
+
+
+## Controls / Installation
+
+
+The project requires pygame. Type in these programs in terminal. 
+
+python3 -m pip install pygame <<<(mac)>>>
+or
+python -m pip install pygame <<<(windows)>>>
+or
+sudo apt install python3-pygame <<<(ubuntu)>>>
+
+Controls - LEFT MOUCH CLICK 
+
+
+## Bye 
