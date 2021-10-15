@@ -28,4 +28,4 @@ Controls - LEFT MOUCH CLICK
 
 ## Bye 
 
-![0_QVsfpDQDKnqnLPAB](https://user-images.githubusercontent.com/92526205/137495933-a524e74d-11ef-422d-a0b4-e80397e67dbd.gif) ![flappy-bird-flying](https://user-images.githubusercontent.com/92526205/137495864-5cb0ee9e-8bbb-4829-a7b4-c8a7d2edc150.gif)
+![0_QVsfpDQDKnqnLPAB](https://user-images.githubusercontent.com/92526205/137495933-a524e74d-11ef-422d-a0b4-e80397e67dbd.gif) 
